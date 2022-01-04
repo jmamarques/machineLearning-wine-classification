@@ -45,7 +45,7 @@ of features.
 The technical evaluation should include different metrics and means to better understand the errors of the supervised machine learning approaches. The assessment of the
 unsupervised machine learning approaches should compare the resulting clusters to clusters based on the quality score.
 
-## Supervised Learning Algorithms
+## Supervised Learning Algorithms [Report](report_supervised.ipynb)
 
 Experiment with the following supervised learning algorithms and comment the results,
 based on your knowledge of how they work.
