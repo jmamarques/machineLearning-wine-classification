@@ -53,7 +53,7 @@ based on your knowledge of how they work.
 2. Multi-layer perceptron;
 3. k-NN.
 
-## Unsupervised learning algorithms
+## Unsupervised learning algorithms[Report](report_unsupervised.ipynb)
 
 Experiment with the following unsupervised learning algorithms and comment the results,
 based on your knowledge of how they work.
